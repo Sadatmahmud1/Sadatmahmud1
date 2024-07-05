@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Sadat Mahmud</h1>
 <h3 align="center">A passionate Mobile app devloper</h3>
-<img align="right" alt = "Coding" width = "500" src = "https://th.bing.com/th/id/R.e91028c9a9beefdbaeeed6d2daf1fc22?rik=b%2bAO7xuCJCly%2bA&pid=ImgRaw&r=0">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadatmahmud1&label=Profile%20views&color=0e75b6&style=flat" alt="sadatmahmud1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadatmahmud1" alt="sadatmahmud1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/sadatmahmud_1" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sadatmahmud_1?logo=twitter&style=for-the-badge" alt="https://x.com/sadatmahmud_1" /></a> </p>
+<img align="right" alt = "Coding" width = "500" src = "https://th.bing.com/th/id/R.e91028c9a9beefdbaeeed6d2daf1fc22?rik=b%2bAO7xuCJCly%2bA&pid=ImgRaw&r=0">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
