@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadatmahmud1" alt="sadatmahmud1" /></a> </p>
 
-<img align="right" alt = "Coding" width = "500" src = "https://th.bing.com/th/id/R.e91028c9a9beefdbaeeed6d2daf1fc22?rik=b%2bAO7xuCJCly%2bA&pid=ImgRaw&r=0">
+<img align="right" alt = "Coding" width = "300" src = "https://th.bing.com/th/id/R.e91028c9a9beefdbaeeed6d2daf1fc22?rik=b%2bAO7xuCJCly%2bA&pid=ImgRaw&r=0">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
